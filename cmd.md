@@ -23,4 +23,7 @@
 
 <code>[Справочник MarkDown](https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference)</code>
 
-> **git clone** - 
+# Инструкция по связке Git - GitHub 
+
+Чтобы склонировать репозиторий к себе на ПК используется команда:
+> **git clone URL** - открывается репозиторий по адресу **URL**
